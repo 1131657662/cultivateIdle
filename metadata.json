@@ -1,0 +1,7 @@
+{
+  "name": "想不想修仙",
+  "description": "放置修仙模拟手游，包含凡人修真、灵根洞府、门派经营、渡劫飞升与仙界探索",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
